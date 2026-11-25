@@ -23,7 +23,7 @@
 ### 3. 下载脚本并放入目标文件夹
 由于 iOS 版 Userscripts 面板不支持手动新建脚本，「文件」App 也无法直接新建 `.js` 文件，请直接下载现成的 `.user.js` 文件并移入目录：
 
-1. 前往本仓库的 [Releases](https://github.com/<61mo>/easyketang-safari-lite/releases) 页面，下载附件中的 `easyketang-safari-lite.user.js`。
+1. 前往本仓库的 [Releases](https://github.com/61mo/easyketang-safari-lite/releases) 页面，下载附件中的 `easyketang-safari-lite.user.js`。
 2. 打开 iPhone 的 **「文件」** App，在下载目录找到 `easyketang-safari-lite.user.js`，将其 **移动或存储** 到第 1 步中 Userscripts 指定的目标文件夹内（确保文件后缀保持为 `.user.js`，未被系统改成 `.txt`）。
    - *备选方式*：如果第 1 步选的是 `iCloud 云盘` 目录，也可以在电脑上下载脚本后直接拖入对应的 iCloud 文件夹等待同步；或者在 Safari 中直接打开该脚本的 GitHub Raw 链接，点击地址栏的 Userscripts 扩展图标按提示一键安装。
 
